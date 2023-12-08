@@ -13,7 +13,7 @@ class derived1 extends base1{
     }
     derived1(int x,int y){
         super(x);
-        System.out.println("I am an overloaded constructor of derived with value of y as: "+y);
+        System.out.println("I am an overloaded constructor of derived with value of y as fuck: "+y);
     }
 }
 class childodderived extends derived1{
@@ -38,7 +38,7 @@ public class ConstructorInheritance {
 
 
 
-    //Constructors during constructor overloading :
+//Constructors during constructor overloading :
 
 //When there are multiple constructors in the parent class, the constructor without any parameters is called from the child class.
 //If we want to call the constructor with parameters from the parent class, we can use the super keyword.
