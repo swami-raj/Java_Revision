@@ -9,7 +9,6 @@ abstract class parent2{
     abstract public void gree1();
 }
  class child extends parent2{
-    super(a);
      @Override
      public void greet() {
          System.out.println("good morning anushtha");
