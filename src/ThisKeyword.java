@@ -11,6 +11,7 @@ class capital{
         money =i;
         this.day=day;
         this.name=name;
+        // slayer gama
     }
     public void fullDetail(){
         System.out.println("my name is "+name);
